@@ -1,3 +1,3 @@
 Public Sub Main()
-    Debug.Print "Hello, World!"
+    Debug.Print "Hello World!"
 End Sub
